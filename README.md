@@ -1,5 +1,9 @@
 # Awesome-iSAQB
 
+The **International Software Architecture Qualification Board** (iSAQB) is the leading association for certification and training of software architects.
+
+The most
+
 This is repository is going to provide the awesome stuffs for the certification of iSAQB software architecture.
 
 ## Prerequisite
@@ -86,19 +90,25 @@ Let review some essential stuffs that are very important for diving deep into iS
 
 ## Glossary
 
-**virtual machine** is
+**virtual machine** is an emulation of a computer system
 
-**usability** is
+**usability** is the degree to which the system is easy to use by end-users.
+Could include intuitives, number of user errors, useful user feedback and other
+metrics.
 
-**tradeoff** is
+**tradeoff** is the result of design decisions: implies that there are benefits
+and detriments to the design decision and there must be weighed against each other.
 
-**throughput** is
+**throughput** is the amount of output produced over time.
 
-**testability** is
+**testability** is how easy it is to demonstrate errors in the system through
+executable tests.
 
-**sychronous** is
+**sychronous**: that in the request/response, this refers to when the client
+halts processing until receiving a response from the server.
 
-**asynchronous** is
+**asynchronous**: in the request/response, this refers to when the client continous
+processing logic after sending a request. The response is dealt with separately.
 
 ## Online-course
 
