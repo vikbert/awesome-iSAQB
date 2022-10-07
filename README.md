@@ -4,8 +4,6 @@ This is repository is going to provide the awesome stuffs for the certification 
 
 ## Prerequisite
 
----
-
 Let review some essential stuffs that are very important for diving deep into iSAQB training.
 
 ### Design Patterns
@@ -41,8 +39,6 @@ Let review some essential stuffs that are very important for diving deep into iS
 #### state diagram
 
 ## Training Content
-
----
 
 ## Basic
 
@@ -89,8 +85,6 @@ Let review some essential stuffs that are very important for diving deep into iS
 ### static and dynamic architecture analysis
 
 ## Glossary
-
----
 
 **virtual machine** is
 
