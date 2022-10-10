@@ -2,9 +2,74 @@
 
 The **International Software Architecture Qualification Board** (iSAQB) is the leading association for certification and training of software architects.
 
-The most
-
 This is repository is going to provide the awesome stuffs for the certification of iSAQB software architecture.
+
+
+## Day 01 Online-course
+
+### why do you need a certification
+
+### Content of the Certification
+- meaning of software architecture
+- Essential steps in design
+- coordinate decisions with other project participants
+- methods and techniques
+- doucment and communicate
+- assessment of software architectures
+- role, function and responsiblities
+
+### Condition for CPSA-F
+- knowledge of object orientation
+- practical experience in OOP
+- practical experience in design and implementation
+
+> to help the project manager to make a realistic project planning
+
+### Stakeholders of software product
+- business cons. dept
+- end users
+- PM
+- PO
+- QA/Test
+- legal/security departments
+- Develop team
+- DevOps
+
+### Responsibilites of software architect
+- functional requirement
+	- responsible in Def: PO
+	- responsible in Impl: Dev Team
+- non-functional requirement
+	- Quality requirement
+		- responsible in Def: all stakeholders
+		- responsible in Impl: SW architect
+	- Constraints
+
+### Role of architecture
+- SW-architect
+	- Dev team
+- SW-architect
+	- named architect 
+- SW-architect
+	- supporting architect
+
+### Level of certification
+- advanced
+	- deeper studay of fundation level
+	- modular
+		- methodical
+		- technological
+		- 
+- expert
+
+### Notes for examination
+- multiple choice test
+- duration of examination = 75 mins (+15 for non-native)
+- questions related to the procedure are only allowed before the examnination begins
+
+### Examination
+- the curriculum of iSAQB for software architecture
+- evaluation is carried out by cerfication body
 
 ## Prerequisite
 
@@ -110,5 +175,5 @@ halts processing until receiving a response from the server.
 **asynchronous**: in the request/response, this refers to when the client continous
 processing logic after sending a request. The response is dealt with separately.
 
-## Online-course
+
 
